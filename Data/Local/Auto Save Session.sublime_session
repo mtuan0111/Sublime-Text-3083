@@ -1,0 +1,594 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3083,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"pcip",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"  "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"	"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 114.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"di",
+						"display"
+					],
+					[
+						"dis",
+						"text-decoration-style"
+					],
+					[
+						"in",
+						"inherit"
+					],
+					[
+						"ref",
+						"webkit-box-reflect"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"scr",
+						"src"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"style",
+						"stylesheet"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"wi",
+						"width"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "Landing-01/index.jade",
+					"settings":
+					{
+						"buffer_size": 1179,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Program Portable/Sublime Text 3083/Data/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1369,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 320.0,
+				"last_filter": "sshtml",
+				"selected_items":
+				[
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssjade",
+						"Set Syntax: Jade"
+					],
+					[
+						"ssJade",
+						"Set Syntax: Jade"
+					],
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"instap",
+						"Package Control: Install Package"
+					],
+					[
+						"ss sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pic",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ss",
+						"Set Syntax: Jade"
+					],
+					[
+						"ssja",
+						"Set Syntax: Jade"
+					],
+					[
+						"jade",
+						"Snippet: jade-html5"
+					],
+					[
+						"anc",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML (ASP)"
+					],
+					[
+						"Snippet: <html",
+						"Snippet: <?php echo htmlentities(…) ?>"
+					]
+				],
+				"width": 382.0
+			},
+			"console":
+			{
+				"height": 166.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/common",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/common/img",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/common/js",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/common/js/bxslider-4",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/css",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/sass"
+			],
+			"file_history":
+			[
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/sass/_layout.sass",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/sass/_vars.sass",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/sass/_mixins.sass",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/css/style.css.map",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/sass/_reset.sass",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/sass/_base.sass",
+				"/D/Program Portable/Sublime Text 3083/Data/Packages/User/MySnippet/Jade-Html5.sublime-snippet",
+				"/D/Program Portable/Sublime Text 3083/Data/Packages/User/MySnippet/Jade5.sublime-snippet",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/css/style.css",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/sass/style.sass",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/index.html",
+				"/D/Program Portable/Sublime Text 3083/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Program Portable/Sublime Text 3083/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/sass/_main.sass",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/index.jade",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/sass/_reset.css",
+				"/C/Users/10520_000/Google Drive/Training/projects/Landing-01/style/scss/style.sass",
+				"/D/Program Portable/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Jade-projects/first-demo/page.jade",
+				"/C/Users/10520_000/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/D/Jade-projects/first-demo/index.html",
+				"/C/Users/10520_000/AppData/Roaming/Sublime Text 2/Packages/User/My Snippet/jade-html5.sublime-snippet",
+				"/D/Jade-projects/first-demo/page.html",
+				"/C/Users/10520_000/AppData/Roaming/Sublime Text 2/Packages/User/Jade.sublime-settings",
+				"/D/Jade-projects/first-demo/index.js",
+				"/C/Users/10520_000/AppData/Roaming/Sublime Text 2/Packages/User/My Snippet/html5.sublime-snippet"
+			],
+			"find":
+			{
+				"height": 115.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"10",
+					"\n\n",
+					"    ",
+					"clear",
+					"before",
+					"logo",
+					" =",
+					";",
+					"}",
+					" {",
+					":",
+					";",
+					"    ",
+					"}",
+					"{",
+					"color_scheme",
+					"theme"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"  ",
+					":",
+					"",
+					": ",
+					"",
+					"  ",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "Landing-01/index.jade",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1179,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										458,
+										458
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 360.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Program Portable/Sublime Text 3083/Data/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1369,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										593,
+										593
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 288.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 120.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,695,156,156,812",
+			"project": "Landing-01.sublime-project",
+			"replace":
+			{
+				"height": 114.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/D/Jade-projects/first-demo/[Jade]First-demo.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 95.0,
+				"last_filter": "d",
+				"selected_items":
+				[
+					[
+						"d",
+						"header"
+					]
+				],
+				"width": 374.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 388.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": "/C/Users/10520_000/Google Drive/Training/projects/Landing-01.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/10520_000/Google Drive/Training/projects/Landing-01.sublime-workspace"
+		]
+	}
+}
